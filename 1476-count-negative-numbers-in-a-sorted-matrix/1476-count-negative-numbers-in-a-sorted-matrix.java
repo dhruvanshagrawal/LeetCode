@@ -4,6 +4,7 @@ public class Solution {
         int n = grid[0].length;
         int row = m - 1;
         int col = 0;
+        
         int count = 0;
 
         while (row >= 0 && col < n) {
