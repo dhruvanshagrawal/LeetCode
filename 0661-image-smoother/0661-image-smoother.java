@@ -1,26 +1,22 @@
 public class Solution {
     public int[][] imageSmoother(int[][] img) {
-        int rows = img.length;
-        int cols = img[0].length;
-        int[][] result = new int[rows][cols];
-        int[] directions = {-1, 0, 1}; 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                int sum = 0, count = 0;
-                for (int dx : directions) {
-                    for (int dy : directions) {
-                        int ni = i + dx;
-                        int nj = j + dy;
+        int m = img.length, n = img[0].length;
+        int[][] res = new int[m][n];
 
-                        if (ni >= 0 && ni < rows && nj >= 0 && nj < cols) {
-                            sum += img[ni][nj];
-                            count++;
-                        }
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                int sum = 0, count = 0;
+
+                for (int x = Math.max(i - 1, 0); x <= Math.min(i + 1, m - 1); ++x) {
+                    for (int y = Math.max(j - 1, 0); y <= Math.min(j + 1, n - 1); ++y) {
+                        sum += img[x][y];
+                        count++;
                     }
                 }
-                result[i][j] = sum / count;
+
+                res[i][j] = sum / count;
             }
         }
-        return result;
+        return res;
     }
 }
