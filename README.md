@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0777-toeplitz-matrix) |
