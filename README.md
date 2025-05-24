@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3194-find-words-containing-character) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
