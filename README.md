@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
 |  |
 | ------- |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruvanshagrawal/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
