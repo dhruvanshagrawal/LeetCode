@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruvanshagrawal/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
