@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0125-valid-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruvanshagrawal/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
