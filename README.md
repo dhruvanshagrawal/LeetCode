@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruvanshagrawal/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -206,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
