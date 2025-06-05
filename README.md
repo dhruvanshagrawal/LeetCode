@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0125-valid-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dhruvanshagrawal/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
