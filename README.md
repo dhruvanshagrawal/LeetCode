@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0649-dota2-senate) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
