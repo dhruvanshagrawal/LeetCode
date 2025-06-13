@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dhruvanshagrawal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvanshagrawal/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -238,5 +241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvanshagrawal/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
